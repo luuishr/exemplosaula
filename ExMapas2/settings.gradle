@@ -1,0 +1,2 @@
+rootProject.name='ExMapas2'
+include ':app'

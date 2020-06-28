@@ -1,0 +1,2 @@
+rootProject.name='ExFotoManha'
+include ':app'
